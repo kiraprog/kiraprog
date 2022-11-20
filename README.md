@@ -1,5 +1,5 @@
 **My technology stack:**
-SQL, Python, Git, AirFlow, Tableau, Redash
+SQL, Python, Excel, Git, AirFlow, Tableau, Redash
 Pandas, NumPy, Matplotlib, Seaborn
 
 **Education:**
