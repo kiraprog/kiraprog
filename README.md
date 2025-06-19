@@ -9,7 +9,7 @@ Statistics - Stepik
 Excel - Yandex
 
 **About me**
-_I am currently looking for a job as Data Analyst._
+_I am currently looking for a job as System Analyst._
 
 Among the skills, I would like to note that I can prepare, conduct and analyze the results of A / B testing.
 I know the basic concepts of probability theory.
